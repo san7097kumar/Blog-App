@@ -37,7 +37,7 @@
                 <img src="/images/lary-avatar.svg" alt="Lary avatar">
                 <div class="ml-3">
                     <h5 class="font-bold"><a href="/?author={{$post->author->username}}">{{$post->author->name}}</a></h5>
-                    <h6>Mascot at Laracasts</h6>
+                    <h6>Mascot at Laracasts Git</h6>
                 </div>
             </div>
 
